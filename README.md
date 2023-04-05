@@ -7,7 +7,7 @@ Not related to or with playninjalegends.com.
 Download the repository or clone with git
 
 ```
-git clone https://git.teknik.io/wobm/playninjalegends
+gh repo clone adibw99/ninjalegends
 ```
 
 Change directory to the cloned repo,
